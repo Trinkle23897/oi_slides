@@ -1,8 +1,8 @@
-# oi_slides
+# OI\_slides
 
 受[黄学长repo](https://github.com/hzwer/shareOI)启发，反正好久没去骗钱了，ppt放着也没啥用，就publish了
 
-ppt模板在 [Overleaf](https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb) 上面
+ppt模板在 [这个GitHub仓库](https://github.com/Trinkle23897/THU-Beamer-Theme) 里面
 
 按照时间顺序：
 
