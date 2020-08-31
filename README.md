@@ -21,3 +21,5 @@ ppt模板在 [这个GitHub仓库](https://github.com/Trinkle23897/THU-Beamer-The
 | 2017/7/19    | [搜索.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/%E6%90%9C%E7%B4%A2.pdf) | NOIP夏令营                                      |
 | 2017/7/20    | [计算几何.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95.pdf) | NOIP夏令营，16年做的                            |
 | 2017/12/5    | [THUtraining2017-dsa.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/THUtraining2017-dsa.pdf) | 清华集训2017题解                                |
+
+Update: 加了个算法模板合集，一共38页的PDF: [algo.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/algo.pdf)
